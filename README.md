@@ -14,3 +14,9 @@ Link para o Travis-CI: https://travis-ci.org/Prof-Calebe/Source-Code-Inspection
   * corrigir o código-fonte e realizar commits
   * trabalhar em um único repositório (configurar para trabalho em equipe)
 * trabalho em dupla (devem existir commits de todos os autores)
+
+Etapas do trabalho:
+1. Registrar as issues;
+2. Resolver as issues e fazer commits;
+3. Documentar correções na próprias issues e fechar;
+4. Documentar repositório.
