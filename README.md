@@ -1,4 +1,6 @@
-Source-Code-Inspection
+> Link para o Travis-CI: [https://travis-ci.org/gabriel-silveira/Source-Code-Inspection](https://travis-ci.org/gabriel-silveira/Source-Code-Inspection)
+
+TicketMachine
 ======================
 
 > Enviar o link do repositório do projeto corrigido:
